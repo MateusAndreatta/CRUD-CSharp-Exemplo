@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\bin\Debug\BaseCrud.exe.config
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\bin\Debug\BaseCrud.exe
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\bin\Debug\BaseCrud.pdb
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.Form1.resources
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.Properties.Resources.resources
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.exe
+C:\Users\Aluno\source\repos\BaseCrud\BaseCrud\obj\Debug\BaseCrud.pdb
